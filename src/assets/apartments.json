@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "address": "ул. Достык, 12",
+    "area": 55,
+    "rooms": 2,
+    "image": "https://dizayn-interera.moscow/images/blog/111/0_ta0g-5m.jpg"
+  },
+  {
+    "id": 2,
+    "address": "пр. Кабанбая, 45",
+    "area": 72,
+    "rooms": 3,
+    "image": "https://cdn0.divan.ru/img/v1/_vaXu7MTEtxA_e-DAvbuFRs6Rl8JxVt7oMxkxA4sSAo/rs:fit:1920:1440:0:0/g:ce:0:0/bg:ffffff/q:85/czM6Ly9kaXZhbi93aWtpLWFydGljbGUvNDYxODEyNy5qcGc.jpg"
+  },
+  {
+    "id": 3,
+    "address": "ул. Абая, 22",
+    "area": 35,
+    "rooms": 1,
+    "image": "https://murzix.ru/wp-content/uploads/2018/09/dvushka-v-hrushchyovke-pod-renovaciyu.jpg"
+  },
+  {
+    "id": 4,
+    "address": "ул. Кабанбая, 53",
+    "area": 42,
+    "rooms": 1,
+    "image": "https://www.pufikhomes.com/wp-content/uploads/2020/05/shvedskaya-kvartira-s-obiliem-dekora-pufikhomes-2.jpg"
+  },
+  {
+    "id": 5,
+    "address": "ул. Сыганак, 9",
+    "area": 36,
+    "rooms": 1,
+    "image": "https://if.cdnstroy.ru/fveqh3lncrbw5_1cqwhsl/top-10-neudachnyh-planirovok-kvartir-v-novostroykah-foto-1.jpeg"
+  },
+  {
+    "id": 6,
+    "address": "ул. Туран, 109",
+    "area": 92,
+    "rooms": 4,
+    "image": "https://salon.ru/storage/thumbs/gallery/272/271492/835_3500_s927.jpg"
+  }
+]
